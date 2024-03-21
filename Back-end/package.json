@@ -1,0 +1,17 @@
+{
+  "name": "welovemovies-back-end",
+  "version": "1.0.0",
+  "description": "Back-end for We Love Movies application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Movies",
+    "Cinema",
+    "NodeJs",
+    "Typescript"
+  ],
+  "author": "Nguetseng Stephane",
+  "license": "ISC"
+}
